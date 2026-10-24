@@ -1,0 +1,29 @@
+{
+  "brand_name": "Dreamer Demo Brand",
+  "tone": "Clear, helpful, honest and friendly. Avoid hype and pressure tactics.",
+  "preferred_terms": [
+    "easy to use",
+    "customer support"
+  ],
+  "banned_terms": [
+    {
+      "term": "guaranteed results",
+      "replacement": "designed to help"
+    },
+    {
+      "term": "100% success",
+      "replacement": ""
+    },
+    {
+      "term": "cheap",
+      "replacement": "affordable"
+    }
+  ],
+  "approved_facts": [
+    {
+      "fact": "Customer support is available Monday to Friday, 9 AM to 6 PM IST.",
+      "source": "Demo support policy (sample data)"
+    }
+  ],
+  "required_phrases": []
+}
