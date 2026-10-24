@@ -5,7 +5,7 @@
 BrandGuard Lite checks marketing content against your brand rules before publication. It explains each issue, suggests configured wording fixes in an editable copy, and records a human approval decision.
 
 **Live app:** `Deployment in progress`
-**Repository:** `<GITHUB_REPO_URL — add after the repo is created>`
+**Repository:** `https://github.com/frostlily2k4/BrandGuard-Lite`
 
 ---
 
@@ -108,4 +108,4 @@ No secrets are needed. Judges do not need any account.
 - Libraries: Streamlit, pandas, pytest (open source) and the Python standard library (`re`, `sqlite3`, `json`).
 - Code was developed with the help of an AI coding assistant (Anthropic's Claude). The team reviewed, ran and tested it.
 - Demo brand rules and sample text are fictional.
-- `<Add any other disclosure the competition requires.>`
+  
