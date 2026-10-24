@@ -4,7 +4,7 @@
 
 BrandGuard Lite checks marketing content against your brand rules before publication. It explains each issue, suggests configured wording fixes in an editable copy, and records a human approval decision.
 
-**Live app:** `<PUBLIC_APP_URL — add after deployment is tested>`
+**Live app:** `Deployment in progress`
 **Repository:** `<GITHUB_REPO_URL — add after the repo is created>`
 
 ---
