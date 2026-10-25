@@ -4,8 +4,8 @@
 
 BrandGuard Lite checks marketing content against your brand rules before publication. It explains each issue, suggests configured wording fixes in an editable copy, and records a human approval decision.
 
-**Live app:** `Deployment in progress`
-**Repository:** `<https://github.com/frostlily2k4/BrandGuard-Lite>`
+**Live app:** https://brandguard-lite.streamlit.app/
+**Repository:** https://github.com/frostlily2k4/BrandGuard-Lite
 
 ---
 
